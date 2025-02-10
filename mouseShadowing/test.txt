@@ -1,0 +1,10 @@
+wait();
+click(996,940,left);
+wait();
+click(1121,934,left);
+wait();
+click(1211,939,left);
+wait();
+click(1334,953,left);
+wait();
+click(971,348,left);
